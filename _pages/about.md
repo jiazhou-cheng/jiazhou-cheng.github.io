@@ -12,9 +12,9 @@ redirect_from:
 
 🏫 A senior student studying electrical engineering, math, and computer science at Washington University in St. Louis. 
 
-🔬 A researcher at [lew lab](https://lewlab.wustl.edu/) under the mentorship of Prof. Matthew D. Lew. I develop **high-dimensional inverse algorithm** for fluorescence microscope. 
+🔬 A researcher at [lew lab](https://lewlab.wustl.edu/) under the mentorship of [Prof. Matthew D. Lew](https://engineering.wustl.edu/faculty/Matthew-Lew.html). I develop **high-dimensional inverse algorithm** for fluorescence microscope. 
 
-🔬 A researcher at [Z-lab](https://zlab.wustl.edu/) under the mentorship of Prof. Chao Zhou. I design and assemble **optical path prototypes** for optical coherence tomography (OCT). 
+🔬 A researcher at [Z-lab](https://zlab.wustl.edu/) under the mentorship of [Prof. Chao Zhou](https://engineering.wustl.edu/faculty/Chao-Zhou.html). I design and assemble **optical path prototypes** for optical coherence tomography (OCT). 
 
 ## Research Interest
 Build **next-generation imaging systems** integating optical physics, signal processing, deep learning, and hardware design. I believe advanced imaging technique bridges the unperceivable world with us and is a tool for scientists in various discipline. 
