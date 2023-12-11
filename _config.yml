@@ -11,8 +11,8 @@ title                    : "Jasmine's Homepage"
 title_separator          : "-"
 name                     : &name "Jiazhou Cheng"
 description              : &description "personal description"
-url                      : https://jiazhou-cheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://jiazhou-cheng.github.io
+baseurl                  : ""
 repository               : "jiazhou-cheng/jiazhou-cheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jasmine Cheng"
   avatar           : "profile.png"
-  bio              : "Undergrad @ WashU"
+  bio              : "Undergrad @ WashU \n Imaging Scientist"
   location         : "St. Louis, MO"
   employer         :
   pubmed           : 
