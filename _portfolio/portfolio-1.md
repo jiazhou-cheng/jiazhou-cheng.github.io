@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Robust 6D Video-rate Fluorescence Microscopy"
+excerpt: "A computationally efficient signal processing algorithm for reconstructing 6D infomation (3D localization and 3D orientation infomation) of biological samples through fluorescence microscopy. <br/><img src='/images/6D.png'>"
 collection: portfolio
 ---
 

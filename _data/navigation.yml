@@ -9,14 +9,20 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
+  # - title: "Projects"
+  #   url: /portfolio/
+
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
     url: /files/JC-CV.pdf
+
+  - title: "Contact"
+    url: /contact/
     
   # - title: "Guide"
   #   url: /markdown/
