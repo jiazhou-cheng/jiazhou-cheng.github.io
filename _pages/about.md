@@ -14,7 +14,7 @@ redirect_from:
 
 👜 A researcher at [Lew Lab](https://lewlab.wustl.edu/) under the mentorship of [Prof. Matthew D. Lew](https://engineering.wustl.edu/faculty/Matthew-Lew.html). I develop **high-dimensional inverse algorithm** for fluorescence microscope. 
 
-👜 A researcher at [Z-Lab](https://zlab.wustl.edu/) under the mentorship of [Prof. Chao Zhou](https://engineering.wustl.edu/faculty/Chao-Zhou.html). I design and assemble **optical path prototypes** for optical coherence tomography (OCT). 
+👜 A researcher at [Z-Lab](https://zlab.wustl.edu/) under the mentorship of [Prof. Chao Zhou](https://engineering.wustl.edu/faculty/Chao-Zhou.html). I design and customize **optical path prototypes** for optical coherence tomography (OCT). 
 
 ## Research Interest
 🔬 Build **next-generation imaging systems** integating ...
